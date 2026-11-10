@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+study-guide.html
+blog.txt
+email_reply.txt
+analysis_result.txt
+.DS_Store
